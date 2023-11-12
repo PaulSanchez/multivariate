@@ -1,0 +1,19 @@
+name: multivariate
+version: 0.1.0
+
+authors:
+  - Paul J Sanchez <pjs@alum.mit.edu>
+
+crystal: '>= 1.10.1'
+
+license: MIT
+
+# targets:
+#   test_corr:
+#     main: src/test_corr.cr
+
+dependencies:
+  # linalg:
+  #   github: konovod/linalg
+  matrix:
+    github: JacobUB/matrix
