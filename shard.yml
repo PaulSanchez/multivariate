@@ -8,12 +8,6 @@ crystal: '>= 1.10.1'
 
 license: MIT
 
-# targets:
-#   test_corr:
-#     main: src/test_corr.cr
-
 dependencies:
-  # linalg:
-  #   github: konovod/linalg
-  matrix:
-    github: JacobUB/matrix
+  linalg:
+    github: konovod/linalg
